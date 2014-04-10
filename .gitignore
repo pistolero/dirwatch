@@ -1,0 +1,4 @@
+/filewatcher.egg-info/*
+/*.pyc
+/dist/*
+/dirwatch.egg-info/*
